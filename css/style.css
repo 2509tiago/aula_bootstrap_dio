@@ -1,0 +1,31 @@
+body{
+    font:20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #adb3de;
+}
+
+.quem-somos {
+    background-color: aqua;
+    color:#adb3de
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.parceiros{
+    background-color: aquamarine;
+    color:#adb3de
+}
+
+.bg-footer{
+    background-color: black;
+    color:blanchedalmond;
+}
+
+.serviços{
+    color:#adb3de
+}
